@@ -1,0 +1,10 @@
+.terraform/
+
+*.tfstate
+*.tfstate.backup
+
+.terraform.lock.hcl
+.terraform.tfstate.lock.info
+
+modules/lambda/*.zip
+
